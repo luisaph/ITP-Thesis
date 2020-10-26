@@ -1,2 +1,2 @@
 # ITP-Thesis
-This holds the syllabus for the ITP Thesis class, Section 004
+This holds the syllabus for Luisa's section of the ITP Thesis class
